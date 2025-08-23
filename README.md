@@ -1,4 +1,3 @@
 # Git_Courses
-git_course_continue
-
+For Elzero Web school Git Course
 ## project Notes
